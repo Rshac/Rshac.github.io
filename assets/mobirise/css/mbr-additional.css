@@ -74,3 +74,18 @@
   font-family: 'Roboto Slab', serif;
   font-size: 22px;
 }
+#msg-box1-t .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-t .mbr-article {
+  color: #fff;
+}
+#menu-h .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-h .mbr-navbar__hamburger {
+  color: #ffffff;
+}
