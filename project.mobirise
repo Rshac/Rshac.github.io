@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-17_1546",
-    "currentPage": "about.html",
+    "currentPage": "recommendedresources.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -18,7 +18,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 100,
+    "uniqCompNum": 110,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -27,7 +27,7 @@
       "settings": {
         "meta_descr": "At Forhisglory.me, our mission is to encourage women to seek God for themselves and to know Him for who He is.",
         "title": "More Sources",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -147,26 +147,6 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a><br><a href=\"blogs.html#header3-l\">Blogs</a><br><a href=\"moresources.html#slider-16\">More Sources</a><br><a href=\"recommendedresources.html\">Recommended Resources</a><br><a href=\"videos.html\">Moments of Encouragement</a><br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1l"
-        },
-        {
-          "_params": {
             "showMeta": true
           },
           "title": "Our Purpose",
@@ -192,6 +172,56 @@
             }
           },
           "_anchor": "header3-2k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2z"
         }
       ]
     },
@@ -199,7 +229,7 @@
       "settings": {
         "meta_descr": "At Forhisglory.me, our mission is to encourage women to seek God for themselves and to know Him for who He is.",
         "title": "About",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -307,7 +337,7 @@
           },
           "title": "Who are we?",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Forhisglory.me is a new outreach aimed towards encouraging women to seek God and know Him personally, as He really is. Our site is not yet finished but we plan on producing blog posts, possibly videos, and regular encouragement from God's word. Forhisglory.me is designed to give you tools to think for yourself and learn from God's word as He shows Himself to you. We trust that this will be a blessing to you. Praying we can help you dig deeper into God's beautiful love letter we call the Bible.",
+          "text": "Forhisglory.me is a new outreach aimed towards encouraging women to seek God and to get to know Him personally, as He really is. Our site is not yet finished but we plan on producing blog posts, videos, and regular encouragement from God's word. Forhisglory.me is designed to give you tools to think for yourself and learn from God's word as He shows Himself to you. We trust that this will be a blessing to you. Praying we can help you dig deeper into God's beautiful love letter we call the Bible.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
             "Theme"
@@ -482,22 +512,52 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text": "forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a><br><a href=\"blogs.html#header3-l\">Blogs</a><br><a href=\"moresources.html#slider-16\">More Sources</a><br><a href=\"recommendedresources.html\">Recommended Resources</a><br><a href=\"videos.html\">Moments of Encouragement</a><br><br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-1l"
+          "_name": "contacts3",
+          "_anchor": "contacts3-2z"
         }
       ]
     },
@@ -505,7 +565,7 @@
       "settings": {
         "meta_descr": "At Forhisglory.me, our mission is to encourage women to seek God for themselves and to know Him for who He is.",
         "title": "Videos",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -558,26 +618,6 @@
           "_anchor": "menu-10"
         },
         {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a><br><a href=\"blogs.html#header3-l\">Blogs</a><br><a href=\"moresources.html#slider-16\">More Sources</a><br><a href=\"recommendedresources.html\">Recommended Resources</a><br><a href=\"videos.html\">Moments of Encouragement</a><br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1l"
-        },
-        {
           "text": "<p>For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.</p><p>John 3:16</p>",
           "_tags": [
             "Theme"
@@ -612,6 +652,56 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2z"
         }
       ]
     },
@@ -619,9 +709,49 @@
       "settings": {
         "meta_descr": "At Forhisglory.me, our mission is to encourage women to seek God for themselves and to know Him for who He is.",
         "title": "Recommended Resources",
-        "order": 7
+        "order": 8
       },
       "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1388db7b-4d61-451f-8c82-60341d029f66-1280x958.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/bvn1foD_bNc?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=bvn1foD_bNc&feature=youtu.be",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Recommended Resources",
+          "text": "A page dedicated to pointing you to quality resources to use on your own. This Includes short Christian book reviews briefly discussing a few titles that are beneficial to the Christian life.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "header4-31"
+        },
         {
           "text": "<p>For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.</p><p>John 3:16</p>",
           "_tags": [
@@ -710,22 +840,52 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text": "forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a><br><a href=\"blogs.html#header3-l\">Blogs</a><br><a href=\"moresources.html#slider-16\">More Sources</a><br><a href=\"recommendedresources.html\">Recommended Resources</a><br><a href=\"videos.html\">Moments of Encouragement</a><br><br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-1o"
+          "_name": "contacts3",
+          "_anchor": "contacts3-2z"
         }
       ]
     },
@@ -824,17 +984,17 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1388db7b-4d61-451f-8c82-60341d029f66-1280x958.jpg",
+                "image": "@PROJECT_PATH@/assets/images/d2517a46-2f30-4a68-b7a5-876174fd68db-1280x960.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Recommended Resources",
                 "contentAlign": "left",
-                "text": "A page dedicated to pointing you to quality resources to use on your own. This Includes short Christian book reviews briefly discussing a few titles that are beneficial to the Christian life.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"recommendedresources.html\" data-toolbar=\"-mbrBtnMove\">RESOURCES PAGE</a>       ",
+                "text": "A page dedicated to pointing you to quality resources to use on your own. This Includes short Christian book reviews briefly discussing a few titles that are helpful in running the race of Christianity.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"recommendedresources.html\" data-toolbar=\"-mbrBtnMove\">RESOURCES PAGE</a>       ",
                 "overlay": true,
-                "overlayOpacity": "0.1",
+                "overlayOpacity": "0.3",
                 "alt": ""
               },
               {
@@ -1039,29 +1199,59 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text": "forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a><br><a href=\"blogs.html#header3-l\">Blogs</a><br><a href=\"moresources.html#slider-16\">More Sources</a><br><a href=\"recommendedresources.html\">Recommended Resources</a><br><a href=\"videos.html\">Moments of Encouragement</a><br><br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-1l"
+          "_name": "contacts3",
+          "_anchor": "contacts3-2z"
         }
       ]
     },
     "page7.html": {
       "settings": {
         "meta_descr": "At Forhisglory.me, our mission is to encourage women to seek God for themselves and to know Him for who He is.",
-        "title": "Page 7",
+        "title": "The Bible",
         "order": 2
       },
       "components": [
@@ -1074,7 +1264,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/copy-2-2000x894.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1388db7b-4d61-451f-8c82-60341d029f66-1280x958.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -1082,9 +1272,9 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "title": "WHAT IS THE BIBLE?",
           "text": "The very words of our infinite God given to us, for our teaching, reproof, correction, and training in righteousness. In the Bible are the words of life.",
@@ -1153,26 +1343,6 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a><br><a href=\"blogs.html#header3-l\">Blogs</a><br><a href=\"moresources.html#slider-16\">More Sources</a><br><a href=\"recommendedresources.html\">Recommended Resources</a><br><a href=\"videos.html\">Moments of Encouragement</a><br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-29"
-        },
-        {
-          "_params": {
             "showMeta": true
           },
           "title": "The Bible",
@@ -1221,6 +1391,56 @@
           },
           "_params": {},
           "_anchor": "content1-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2z"
         }
       ]
     },
@@ -1322,26 +1542,6 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a><br><a href=\"blogs.html#header3-l\">Blogs</a><br><a href=\"moresources.html#slider-16\">More Sources</a><br><a href=\"recommendedresources.html\">Recommended Resources</a><br><a href=\"videos.html\">Moments of Encouragement</a><br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1z"
-        },
-        {
-          "_params": {
             "showMeta": true
           },
           "title": "The Gospel",
@@ -1390,6 +1590,56 @@
           },
           "_params": {},
           "_anchor": "content1-25"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2z"
         }
       ]
     },
@@ -1488,24 +1738,199 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3f3f3f"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3f3f3f"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#3f3f3f"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#3f3f3f",
+            "hamburgerColor": "#3f3f3f"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#header4-0\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html#msg-box5-c\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"doubtinggodsgoodness.html#msg-box2-2i\">BLOGS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"moresources.html#slider-16\">MORE SOURCES</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"home.html#header4-0\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">For His Glory<br><br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1y"
+        },
+        {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text": "forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a><br><a href=\"blogs.html#header3-l\">Blogs</a><br><a href=\"moresources.html#slider-16\">More Sources</a><br><a href=\"recommendedresources.html\">Recommended Resources</a><br><a href=\"videos.html\">Moments of Encouragement</a><br><br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-1l"
+          "_name": "contacts3",
+          "_anchor": "contacts3-2s"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "At Forhisglory.me, our mission is to encourage women to seek God for themselves and to know Him for who He is.",
+        "title": "Blog2",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2t"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Doubting God's Goodness:Justice",
+          "meta": "Posted April 20, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2u"
+        },
+        {
+          "text": "<p>This site is not yet complete. As soon as possible, we'll have this page up for you.<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "image2-2w"
         },
         {
           "_styles": {
@@ -1554,7 +1979,57 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1y"
+          "_anchor": "menu-2x"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND</a>",
+          "text1": "<p><a href=\"about.html#msg-box5-c\"></a>forhisglory.me<br><br><a href=\"about.html#msg-box5-c\">About</a>\n<br><a href=\"doubtinggodsgoodness.html\">Blogs\n</a><br><a href=\"moresources.html#slider-2r\">More Sources\n</a><br><a href=\"recommendedresources.html\">Recommended Resources</a>\n<br><a href=\"videos.html\">Moments of Encouragement</a>&nbsp;<br></p>",
+          "text2": "<p><b><i>If you have a question about our God or if there is any way that we can be praying for you please send us a message here:</i></b></p><p><b><i>We plan on answering questions through blog posts.&nbsp;</i></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "forhisglory.me@gmail.com",
+            "alerts": {
+              "success": "Thank you for your question or prayer request! It is our pleasure to be able to serve you in this way.\nThe God of all grace be with you."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2y"
         }
       ]
     }
